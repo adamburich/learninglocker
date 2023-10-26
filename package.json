@@ -54,7 +54,6 @@
     "@google-cloud/pubsub": "^0.16.1",
     "@google-cloud/storage": "^1.5.2",
     "@learninglocker/persona-service": "^2.1.5",
-    "@learninglocker/xapi-statements": "^7.5.0",
     "@learninglocker/xapi-validation": "^2.1.5",
     "Base64": "^0.3.0",
     "async": "^2.0.0-rc.3",
