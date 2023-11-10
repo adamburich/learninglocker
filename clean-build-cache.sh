@@ -13,15 +13,15 @@ echo 'Removing "ui/src/node_modules"'
 rm -R -f ui/src/node_modules
 
 
-# echo 'Removing "cli/dist"'
-# rm -R -f cli/dist
+echo 'Removing "cli/dist"'
+rm -R -f cli/dist
 
-# echo 'Removing "worker/dist"'
-# rm -R -f worker/dist
+echo 'Removing "worker/dist"'
+rm -R -f worker/dist
 
-# echo 'Removing "api/dist"'
-# rm -R -f api/dist
+echo 'Removing "api/dist"'
+rm -R -f api/dist
 
-# echo 'Removing "ui/dist"'
-# rm -R -f ui/dist
+echo 'Removing "ui/dist"'
+rm -R -f ui/dist
 
