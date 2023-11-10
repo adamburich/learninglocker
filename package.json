@@ -49,6 +49,7 @@
     "clean-cache": "sh ./clean-build-cache.sh"
   },
   "dependencies": {
+    "newrelic": "6.14.0",
     "@azure/service-bus": "^1.0.2",
     "@azure/storage-blob": "^10.3.0",
     "@google-cloud/pubsub": "^0.32.1",
@@ -108,7 +109,6 @@
     "ms": "^2.1.1",
     "multer": "^1.1.0",
     "multiparty": "^4.1.2",
-    "newrelic": "6.14.0",
     "nodemailer": "^2.3.2",
     "normalizr": "^2.0.0",
     "numeral": "^1.5.3",
