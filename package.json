@@ -49,12 +49,11 @@
     "clean-cache": "sh ./clean-build-cache.sh"
   },
   "dependencies": {
-    "google-auth-library": "3.1.2",
     "newrelic": "6.14.0",
     "@azure/service-bus": "^1.0.2",
     "@azure/storage-blob": "^10.3.0",
-    "@google-cloud/pubsub": "^0.32.1",
-    "@google-cloud/storage": "^1.5.2",
+    "@google-cloud/pubsub": "0.32.1",
+    "@google-cloud/storage": "1.5.2",
     "@learninglocker/persona-service": "^2.1.5",
     "@learninglocker/xapi-statements": "^7.5.0",
     "@learninglocker/xapi-validation": "^2.1.5",
